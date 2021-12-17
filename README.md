@@ -15,5 +15,10 @@ The home page style from Linux OS desktop.
 * And portraits for people behind the internet ( with huge impact in the net ) like Kevin Owocki / Gitcoin founder. Linus Torvalds . Steve jobs. Brendan Eich...etc
 
 
+URL: https://arweave.net/sZ23YU3-fRdIH3UULjQ72SeMPK0r-SWQw1eCQEolRu0
+
+Block URL: https://arweave.net/block/hash/quc-xqktmwddF_HXgPpqBlW5lad2BQ7YvHdR9F3fdLjilCGFToktnXic2hkNhgfR
+
+
 
 
